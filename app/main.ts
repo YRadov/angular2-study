@@ -20,7 +20,7 @@ class AppComponent {
 
     constructor() {
         this.title = 'Todo App';
-        this.todos = [`Study Angular 2`, `Study TypeScript`]
+        this.todos = [`Study Angular 2`, `Study TypeScript`, `Study Node`]
     }
 }
 
